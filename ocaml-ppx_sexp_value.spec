@@ -48,7 +48,7 @@ używających biblioteki ppx_sexp_value.
 
 %package devel
 Summary:	A ppx rewriter that simplifies building S-expressions from OCaml values - development part
-Summary(pl.UTF-8):	Moduł przepisujący ppx upraszczający budowanie S-wyrażeń z wartości w OCamlu - cześć programistyczna
+Summary(pl.UTF-8):	Moduł przepisujący ppx upraszczający budowanie S-wyrażeń z wartości w OCamlu - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
